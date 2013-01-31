@@ -1,4 +1,0 @@
-FirstGit
-========
-
-Try to learn.
